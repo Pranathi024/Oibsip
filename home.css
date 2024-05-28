@@ -1,26 +1,52 @@
-
-body{
-    background-image: url("https://marketplace.canva.com/EAFnT0_R66w/1/0/1131w/canva-brown-aesthetic-paper-texture-portfolio-cover-document-QEogL5pWyVA.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-.box-1{
-    font-size: 30px;
-    font-style: normal;
-}
-.h1{
-    text-align: center;
-    font-size: 40px;
-}
-.box-2{
-    font-size: 30px;
-   
-}
-.box-3{
-    font-size: 30px;
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
     
+    height: 50px;
+
 }
-.box-4{
-    font-size: 30px;
+header{
+    background-color: brown;
+    height: 30px;
+}
+body{
+    background-image: url("https://www.ikea.com/global/assets/range-categorisation/images/cooking-utensils-kt002.jpeg");
+}
+h1{
+    padding-left: 20px;
+}
+h2{
+    padding-left: 20px;
+}
+.nav-icon{
+    padding-top: 3px;
+    padding-left: 70px;
+}
+.nav-ic{
+    padding-top: 3px;
+    padding-right: 50px;
+}
+button{
+    background-color: green;
+    color: black;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+   text-align: right;
+}
+footer{
+  
+    
+    height: 10px;
+    padding-top: 300px;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 20px;
+    
+   
     
 }
