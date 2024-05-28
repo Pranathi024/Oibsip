@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(235, 204, 164);
+
+}
+img{
+    height: 300px;
+    width: 400px;   
+}
+
+p{
+font-size: 20px;
+color:blueviolet;
+font-style: oblique;
+text-align: left;
+
+}
+div{
+   
+    color: blueviolet;
+    font-style: oblique;
+    font-size: 20px;
+}
+h3{
+    
+    font-style: normal;
+    background-color: black;
+    width: 200px;
+    color: aliceblue;
+}
+h3{
+    
+    font-style: normal;
+    background-color: black;
+    width: 150px;
+    color: aliceblue;
+}
+

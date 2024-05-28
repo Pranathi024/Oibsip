@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 80px;
+}
+div{
+    font-size: 30px;
+}
+body{
+    background-image:url("https://imageio.forbes.com/specials-images/imageserve/630317507c39bc12ccfa8c6c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds");
+    color: white;
+    
+}
